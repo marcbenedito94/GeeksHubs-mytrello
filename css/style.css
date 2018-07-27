@@ -1,0 +1,12 @@
+div.list {
+    width: 200px;
+}
+
+button.btnDeleteList {
+    float: right;
+}
+
+button.btnAddTask {
+    float: right;
+    margin-top: -23px;
+}
